@@ -109,4 +109,5 @@
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2E3440,5E81AC,88C0D0"/>
 
+#Thanks!
 </div>
