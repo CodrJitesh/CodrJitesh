@@ -10,13 +10,14 @@
 <h3 align="center">
   Full Stack Developer · Building Production-Grade Software · Open Source Contributor
 </h3>
+<h3>
+Full-stack engineer focused on building production-grade web applications and AI-powered tools. I enjoy designing scalable systems, shipping reliable software, and turning product ideas into real-world solutions.
+</h3>
 
 <br>
 
 <!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-<br><br>
+<br>
 <!-- GitHub Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codrjitesh&theme=nord_dark" />
 
